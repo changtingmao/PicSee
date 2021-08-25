@@ -1,4 +1,4 @@
-# picsee3
+# picsee
 
 > A Vue.js project
 
